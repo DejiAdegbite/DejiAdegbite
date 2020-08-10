@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Pronouns: 'He', 'Him'
+- Fun fact: 'I'm a Perl addict. I also play chess and cube.
