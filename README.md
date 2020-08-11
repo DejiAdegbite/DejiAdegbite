@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 'He', 'Him'
 - ⚡ Fun fact: 'I'm a Perl addict. I also play chess and I cube.
 - 🤔 I'm looking for help with the e6 system - the operating system and the compiler.
-- 📫 How to reach me: contact@dejiadegbite.com, https://twitter/@d2alphame, https://twitter/@dejiadegbite, +234-703-794-2000
+- 📫 How to reach me: contact@dejiadegbite.com, [d2alphame](https://twitter/d2alphame), [dejiadegbite](https://twitter/dejiadegbite), +234-703-794-2000
