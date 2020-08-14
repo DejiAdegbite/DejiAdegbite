@@ -5,8 +5,11 @@ and Perl.
 I take delight in solving developer productivity problems.
 
 ## Professional Experience
-### Primerook 2017 till date
-*DevOps Engineer/Android Developer*
+### Primerook, DevOps Engineer/Android Developer (September 2017 till date)
++ Write mobile apps on Android
++ Design the company website
++ Setup CI/CD pipelines on AWS
++ Provision and configure infrastructure using AWS Cloudformation
 ### Javaplus Innovations, December 2016 - September 2017
 *Software Developer*
 ### Afrinolly, December 2014 - July 2016
