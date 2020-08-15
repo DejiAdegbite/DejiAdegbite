@@ -18,4 +18,7 @@ I take delight in solving developer productivity problems.
 + Develop in-house tools to enhance developers' productivity
 
 ### Afrinolly, Sever Administrator/iOS Developer (December 2014 - July 2016)
-+ 
++ Fine tune Nginx servers on Linux to optimize performance
++ Provision application servers on AWS EC2
++ Setup Autoscaling for scaling the Application
++ Assist in the development of iOS App.
