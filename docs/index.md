@@ -31,3 +31,8 @@ I take delight in solving developer productivity problems.
 + Provision application servers on AWS EC2
 + Setup Autoscaling for scaling the Application
 + Assist in the development of iOS App
+
+## Skills and Compentencies
++ Software development with Java programming language
++ Spring and JUnit frameworks
++ Using Gradle as a build tool
