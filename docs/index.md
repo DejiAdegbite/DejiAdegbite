@@ -15,8 +15,9 @@ I take delight in solving developer productivity problems.
 
 ### AXA Mansard, Software Development Intern 
 ***(July 2019 - October 2019)***
-+ 
-
++ Use ProcessMaker to automate processes
++ Develop in-house tools
++ Provide technical support
 
 ### Javaplus Innovations, Software Developer
 ***(December 2016 - September 2017)***
