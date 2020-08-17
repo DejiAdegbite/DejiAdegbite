@@ -1,4 +1,5 @@
 ## About me
+
 I am a Software Engineer with 4 years experience in Java and Java frameworks such as Spring, JUnit, and Gradle.  
 I'm also a DevOps Engineer with 3 years experience in AWS. I work with Linux Systems (Ubuntu), Bash (for scripting),
 and Perl.  
@@ -36,3 +37,7 @@ I take delight in solving developer productivity problems.
 + Software development with Java programming language
 + Spring and JUnit frameworks
 + Using Gradle as a build tool
++ Linux (Ubuntu) administration
++ Bash scripting and Perl programming
++ Version control with Git, GitHub and Bitbucket
++ Windows development with VisualBasic.NET
