@@ -1,3 +1,5 @@
+<a href= "https://linked.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin"></a>
+
 ## About me
 
 I am a Software Engineer with 4 years experience in Java and Java frameworks such as Spring, JUnit, and Gradle.  
