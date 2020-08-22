@@ -1,4 +1,4 @@
-<a href= "https://linked.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin"></a>
+<a href= "https://linkedin.com/in/dejiadegbite" target="_blank" class="far fa-linkedin"></a>
 
 ## About me
 
