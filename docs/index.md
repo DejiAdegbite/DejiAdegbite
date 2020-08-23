@@ -1,4 +1,8 @@
-<a href= "https://linkedin.com/in/dejiadegbite" target="_blank" class="far fa-linkedin"></a>
+<a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin"></a>
+<a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter"></a>
+<a href="https://github.com/d2alphame" target="_blank" class="fa fa-github"></a>
+<a href="https://facebook.com/dejiadegbite" target="_blank" class="fa fa-facebook"></a>
+<a href="https://quora.com/profile/Deji-Adegbite" target="_blank" class="fa fa-quora"></a>
 
 ## About me
 
