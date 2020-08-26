@@ -48,8 +48,8 @@ I take delight in solving developer productivity problems.
 + Version control with Git, GitHub and Bitbucket
 + Windows development with VisualBasic.NET
 
-<a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin fa-2x"></a>
-<a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter fa-2x"></a>
-<a href="https://github.com/d2alphame" target="_blank" class="fa fa-github fa-2x"></a>
-<a href="https://facebook.com/dejiadegbite" target="_blank" class="fa fa-facebook fa-2x"></a>
-<a href="https://quora.com/profile/Deji-Adegbite" target="_blank" class="fa fa-quora fa-2x"></a>
+<a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin fa-2x" style="margin : 12px"></a>
+<a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter fa-2x" style="margin : 12px"></a>
+<a href="https://github.com/d2alphame" target="_blank" class="fa fa-github fa-2x" style="margin : 12px"></a>
+<a href="https://facebook.com/dejiadegbite" target="_blank" class="fa fa-facebook fa-2x" style="margin : 12px"></a>
+<a href="https://quora.com/profile/Deji-Adegbite" target="_blank" class="fa fa-quora fa-2x" style="margin : 12px"></a>
