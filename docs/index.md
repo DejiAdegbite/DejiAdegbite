@@ -58,7 +58,6 @@ I take delight in solving developer productivity problems.
 + Used Genetic Algorithm to solve the Knight Tour Problem (VB.NET)
 + Used Retrograde Analysis to solve the game of Nim (VB.NET)
 
-
 <a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin fa-2x" style="margin : 12px"></a>
 <a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter fa-2x" style="margin : 12px"></a>
 <a href="https://github.com/d2alphame" target="_blank" class="fa fa-github fa-2x" style="margin : 12px"></a>
