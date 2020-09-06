@@ -41,6 +41,7 @@ I take delight in solving developer productivity problems.
 + Assist in the development of iOS App
 
 ## Skills and Compentencies
++ Setting up CI/CD pipelines with AWS CodePipelines
 + Software development with Java programming language
 + Spring and JUnit frameworks
 + Using Gradle as a build tool
