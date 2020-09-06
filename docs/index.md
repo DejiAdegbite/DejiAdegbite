@@ -1,4 +1,4 @@
-<em>Fri, 28-Aug-2020</em><br />
+<em>Sun, 6-Sep-2020</em><br />
 <a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin fa-2x" style="margin : 12px"></a>
 <a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter fa-2x" style="margin : 12px"></a>
 <a href="https://github.com/d2alphame" target="_blank" class="fa fa-github fa-2x" style="margin : 12px"></a>
@@ -41,6 +41,7 @@ I take delight in solving developer productivity problems.
 + Assist in the development of iOS App
 
 ## Skills and Compentencies
++ Setting up CI/CD pipelines with AWS CodePipelines
 + Software development with Java programming language
 + Spring and JUnit frameworks
 + Using Gradle as a build tool
@@ -53,11 +54,15 @@ I take delight in solving developer productivity problems.
 + ***Beanmaker(Perl)***, Tool for generating Java beans and DAOs from MySQL scripts
 + ***PM Utility(PhP)***, For scripting form design process in ProcessMaker
 + ***Toph(Bash)***, Bash script that enforces a git workflow
++ ***Katon(Perl)***, A simple text-replacement macro processor written in Perl
++ ***Ticked(Perl)*** , Parser for a custom markdown flavour
 
 ## Other Stuff
 + Solved the first two steps of Deji's Mashup method for solving the Rubik's cube (VB.NET)
 + Used Genetic Algorithm to solve the Knight Tour Problem (VB.NET)
 + Used Retrograde Analysis to solve the game of Nim (VB.NET)
++ Inane esoteric language written in Java
++ [Extracting logarithms on an abacus](http://totton.idirect.com/soroban/Logarithms/)
 
 <a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin fa-2x" style="margin : 12px"></a>
 <a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter fa-2x" style="margin : 12px"></a>
