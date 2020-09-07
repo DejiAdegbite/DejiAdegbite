@@ -1,4 +1,4 @@
-<em>Sun, 6-Sep-2020</em><br />
+<em>Mon, 7-Sep-2020</em><br />
 <a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin fa-2x" style="margin : 12px 12px 12px 0px"></a>
 <a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter fa-2x" style="margin : 12px"></a>
 <a href="https://github.com/d2alphame" target="_blank" class="fa fa-github fa-2x" style="margin : 12px"></a>
@@ -56,13 +56,14 @@ I take delight in solving developer productivity problems.
 + ***Toph(Bash)***, Bash script that enforces a git workflow
 + ***Katon(Perl)***, A simple text-replacement macro processor written in Perl
 + ***Ticked(Perl)*** , Parser for a custom markdown flavour
++ ***Derml***, This is just another configuration file format that also claims to be _really_ minimal
 
 ## Other Stuff
 + Solved the first two steps of Deji's Mashup method for solving the Rubik's cube (VB.NET)
 + Used Genetic Algorithm to solve the Knight Tour Problem (VB.NET)
 + Used Retrograde Analysis to solve the game of Nim (VB.NET)
 + Inane esoteric language written in Java
-+ [Extracting logarithms on an abacus](http://totton.idirect.com/soroban/Logarithms/)
++ Extracting logarithms on an abacus
 
 <a href="https://linkedin.com/in/dejiadegbite" target="_blank" class="fa fa-linkedin fa-2x" style="margin : 12px 12px 12px 0px"></a>
 <a href="https://twitter.com/d2alphame" target="_blank" class="fa fa-twitter fa-2x" style="margin : 12px"></a>
