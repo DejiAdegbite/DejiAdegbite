@@ -14,8 +14,17 @@ I take delight in solving developer productivity problems.
 
 ## Professional Experience
 
+### The Bulb Africa, DevOps Engineer
+***(April 2021 - till date)***
++ Use AWS for Infrastructure
++ Set up Infrastructure using Infrastructure as Code (AWS CloudFormation)
++ Set up Infrastructure using AWS ElasticBeanstalk
++ Set up CI/CD Pipelines with AWS CodePipeline
++ Automate Deployments using AWS CodeDeploy
++ Use Bitbucket for version control
+
 ### Primerook, DevOps Engineer/Android Developer
-***(September 2017 till date)***
+***(September 2017 - May 2021)***
 + Write mobile apps on Android
 + Design the company website
 + Setup CI/CD pipelines on AWS
