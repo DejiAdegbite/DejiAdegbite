@@ -57,9 +57,12 @@ I have written tools that raised the productivity of development teams by 300% a
 
 ### Javaplus Innovations, Software Developer
 ***(December 2016 - September 2017)***
-+ Develop Applications using Java and Java tools such as Spring, Gradle, and JUnit
-+ Develop Database Backend in MySQL
-+ Develop in-house tools to enhance developers' productivity
++ Developed backend applications using Java and Spring.
++ Implemented unit testing for applications using JUnit.
++ Managed builds for Java applications using Gradle as the build tool.
++ Designed applications' data tier using MySQL.
++ Wrote scripts to automate and simplify some steps of the software development process.
++ Containerized Java applications using Docker.
 
 ### Afrinolly, Sever Administrator/iOS Developer
 ***(December 2014 - July 2016)***
