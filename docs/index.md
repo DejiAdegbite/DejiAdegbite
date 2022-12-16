@@ -49,24 +49,34 @@ I have written tools that raised the productivity of development teams by 300% a
 + Wrote helper scripts in Perl to process files and extract data.
 + Setup CI/CD pipeline to automate the deployment of Android applications.
 
+### Javaplus Innovations, Software Developer
+***(December 2016 - September 2017)***
++ Developed backend applications using Java and Spring.
++ Implemented unit testing for applications using JUnit.
++ Managed builds for Java applications using Gradle as the build tool.
++ Designed applications' data tier using MySQL.
++ Wrote scripts to automate and simplify some steps of the software development process.
++ Containerized Java applications using Docker.
+
+### Afrinolly, Sever Administrator/iOS Developer
+***(December 2014 - July 2016)***
++ Setup EC2 servers and RDS databases on AWS.
++ Administered Linux Ubuntu instances.
++ Fine-tuned Nginx to improve performance.
++ Setup AWS Autoscaling and Elastic Load Balancer for high scalability.
++ Developed applications for iOS using Swift and XCode.
+
 ### AXA Mansard, Software Development Intern 
 ***(July 2019 - October 2019)***
 + Use ProcessMaker to automate processes
 + Develop in-house tools
 + Provide technical support
 
-### Javaplus Innovations, Software Developer
-***(December 2016 - September 2017)***
-+ Develop Applications using Java and Java tools such as Spring, Gradle, and JUnit
-+ Develop Database Backend in MySQL
-+ Develop in-house tools to enhance developers' productivity
-
-### Afrinolly, Sever Administrator/iOS Developer
-***(December 2014 - July 2016)***
-+ Fine tune Nginx servers on Linux to optimize performance
-+ Provision application servers on AWS EC2
-+ Setup Autoscaling for scaling the Application
-+ Assist in the development of iOS App
+### Other Experience
++ Wrote an implementation for uploading large files to AWS S3 using AWS Multipart Uploads
++ Refactored infrastructure into AWS CloudFormation templates
++ Setup Grafana Dashboards using AWS-managed Grafana workspace
++ Setup AWS Elastic Kubernetes Clusters using eksctl
 
 ## Skills and Compentencies
 + Setting up CI/CD pipelines with AWS CodePipelines
