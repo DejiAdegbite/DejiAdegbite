@@ -42,10 +42,12 @@ I have written tools that raised the productivity of development teams by 300% a
 
 ### Primerook, DevOps Engineer/Android Developer
 ***(September 2017 - May 2021)***
-+ Write mobile apps on Android
-+ Design the company website
-+ Setup CI/CD pipelines on AWS
-+ Provision and configure infrastructure using AWS Cloudformation
++ Developed mobile applications for Android using Java and Gradle for builds.
++ Design the company's website using Bootstrap, HTML, and JavaScript.
++ Setup VPS Infrastructure to host company infrastructure.
++ Used Git, BitBucket, and BitBucket pipelines for version control and CI/CD.
++ Wrote helper scripts in Perl to process files and extract data.
++ Setup CI/CD pipeline to automate the deployment of Android applications.
 
 ### AXA Mansard, Software Development Intern 
 ***(July 2019 - October 2019)***
