@@ -7,12 +7,23 @@
 
 ## About me
 
-I am a Software Engineer with 4 years experience in Java and Java frameworks such as Spring, JUnit, and Gradle.  
-I'm also a DevOps Engineer with 3 years experience in AWS. I work with Linux Systems (Ubuntu), Bash (for scripting),
-and Perl.  
-I take delight in solving developer productivity problems.
+I have written tools that raised the productivity of development teams by 300% and have mentored DevOps Fellows who have become Engineers in various organizations. I have a passion for automation and for solving developer productivity problems.
 
 ## Professional Experience
+
+### Settl.me, DevOps Engineer
+***(January 2022 - August 2022)***
++ Created CI/CD pipelines for deploying Nextjs applications to AWS EC2 and AWS CodeDeploy using BitBucket pipelines.
++ Deployed the company website on EC2 instances and managed deployments with AWS CodeDeploy.
++ Used AWS CloudFormation (Infrastructure as Code) to deploy infrastructure for applications.
++ Deployed APIs through the AWS API Gateway.
++ Refactored infrastructure to lower costs.
++ Wrote in-house utility Perl script for setting up AWS ECR repositories for microservices.
++ Setup AmazonMQ(with RabbitMQ broker) and AWS ElastiCache (Redis) for backend applications.
++ Setup CloudWatch for logging API Gateway events.
++ Provisioned servers (EC2) and databases (RDS) for the company's projects.
++ Setup CI/CD pipelines for backend applications using AWS CodeDeploy, CodeBuild, and CodePipeline.
++ Deployed Dockerized services into AWS Kubernetes clusters.
 
 ### The Bulb Africa, DevOps Engineer
 ***(April 2021 - till date)***
