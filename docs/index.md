@@ -49,12 +49,6 @@ I have written tools that raised the productivity of development teams by 300% a
 + Wrote helper scripts in Perl to process files and extract data.
 + Setup CI/CD pipeline to automate the deployment of Android applications.
 
-### AXA Mansard, Software Development Intern 
-***(July 2019 - October 2019)***
-+ Use ProcessMaker to automate processes
-+ Develop in-house tools
-+ Provide technical support
-
 ### Javaplus Innovations, Software Developer
 ***(December 2016 - September 2017)***
 + Developed backend applications using Java and Spring.
@@ -71,6 +65,12 @@ I have written tools that raised the productivity of development teams by 300% a
 + Fine-tuned Nginx to improve performance.
 + Setup AWS Autoscaling and Elastic Load Balancer for high scalability.
 + Developed applications for iOS using Swift and XCode.
+
+### AXA Mansard, Software Development Intern 
+***(July 2019 - October 2019)***
++ Use ProcessMaker to automate processes
++ Develop in-house tools
++ Provide technical support
 
 ## Skills and Compentencies
 + Setting up CI/CD pipelines with AWS CodePipelines
