@@ -26,13 +26,19 @@ I have written tools that raised the productivity of development teams by 300% a
 + Deployed Dockerized services into AWS Kubernetes clusters.
 
 ### The Bulb Africa, DevOps Engineer
-***(April 2021 - till date)***
-+ Use AWS for Infrastructure
-+ Set up Infrastructure using Infrastructure as Code (AWS CloudFormation)
-+ Set up Infrastructure using AWS ElasticBeanstalk
-+ Set up CI/CD Pipelines with AWS CodePipeline
-+ Automate Deployments using AWS CodeDeploy
-+ Use Bitbucket for version control
+***(April 2021 - December 2021)***
++ Headed the company's DevOps Unit.
++ Mentored DevOps Engineering Fellows during training programs.
++ Setup CI/CD pipelines for frontend applications using AWS CodeDeploy, CodePipeline, CodeBuild, and S3.
++ Setup CDN for frontend applications (React and Angular) with AWS CloudFront.
++ Setup site-to-site VPN connections with AWS.
++ Containerized dotnet applications using Docker.
++ Setup DNS records on AWS Route53.
++ Configured hosted zones on AWS Route53 for externally hosted domains.
++ Setup SSL/TLS certificates for company-owned domains using AWS Certificate Manager (ACM).
++ Administered servers running Linux Ubuntu.
++ Backed up and restored Amazon Machine Images (AMIs) across accounts and regions.
++ Setup Wordpress site with AWS Lightsail
 
 ### Primerook, DevOps Engineer/Android Developer
 ***(September 2017 - May 2021)***
