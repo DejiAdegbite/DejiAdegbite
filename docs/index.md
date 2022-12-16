@@ -72,6 +72,12 @@ I have written tools that raised the productivity of development teams by 300% a
 + Develop in-house tools
 + Provide technical support
 
+### Other Experience
++ Wrote an implementation for uploading large files to AWS S3 using AWS Multipart Uploads
++ Refactored infrastructure into AWS CloudFormation templates
++ Setup Grafana Dashboards using AWS-managed Grafana workspace
++ Setup AWS Elastic Kubernetes Clusters using eksctl
+
 ## Skills and Compentencies
 + Setting up CI/CD pipelines with AWS CodePipelines
 + Software development with Java programming language
