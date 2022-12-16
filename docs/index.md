@@ -66,10 +66,11 @@ I have written tools that raised the productivity of development teams by 300% a
 
 ### Afrinolly, Sever Administrator/iOS Developer
 ***(December 2014 - July 2016)***
-+ Fine tune Nginx servers on Linux to optimize performance
-+ Provision application servers on AWS EC2
-+ Setup Autoscaling for scaling the Application
-+ Assist in the development of iOS App
++ Setup EC2 servers and RDS databases on AWS.
++ Administered Linux Ubuntu instances.
++ Fine-tuned Nginx to improve performance.
++ Setup AWS Autoscaling and Elastic Load Balancer for high scalability.
++ Developed applications for iOS using Swift and XCode.
 
 ## Skills and Compentencies
 + Setting up CI/CD pipelines with AWS CodePipelines
